@@ -9,7 +9,7 @@ node-notifier
 # デスクトップ通知
 ```javascript
 notifier.notify({
-	title: "Nitro hit",
+  title: "Nitro hit",
   message: "DiscordNitroのギフトURLを検知しました。"
 })
 ```
